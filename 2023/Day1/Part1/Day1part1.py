@@ -1,4 +1,4 @@
-Day1File = open("Day1Input.txt", "r")
+Day1File = open("2023/Day1/Day1Input.txt", "r")
 
 # Test Data
 test = ["1abc2", "pqr3stu8vwx","a1b2c3d4e5f", "treb7uchet"]
