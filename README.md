@@ -10,7 +10,9 @@ To keep things organized, I've structured the repository into dedicated director
 
 - [**`/2023/Day1/`**](https://github.com/ZachLTech/AoC/tree/main/2023/Day1): Code for Day 1 challenge.
 - [**`/2023/Day2/`**](https://github.com/ZachLTech/AoC/tree/main/2023/Day2): Code for Day 2 challenge.
-- [**`/2023/Day2/`**](https://github.com/ZachLTech/AoC/tree/main/2023/Day3): Code for Day 3 challenge.
+- [**`/2023/Day3/`**](https://github.com/ZachLTech/AoC/tree/main/2023/Day3): Code for Day 3 challenge.
+- [**`/2023/Day4/`**](https://github.com/ZachLTech/AoC/tree/main/2023/Day4): Code for Day 4 challenge.
+- [**`/2023/Day4/`**](https://github.com/ZachLTech/AoC/tree/main/2023/Day5): Code for Day 5 challenge.
 - *come back tomorrow for more...*
 
 ## How to Navigate
