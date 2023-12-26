@@ -15,6 +15,8 @@ To keep things organized, I've structured the repository into dedicated director
 - [**`/2023/Day5/`**](https://github.com/ZachLTech/AoC/tree/main/2023/Day5): Code for Day 5 challenge. - Will be a little late since I was catching up...
 - *come back tomorrow for more...*
 
+- Ok so I kinda had finals at university and never continued AoC for this year sadly 💀 afterwards, most of my freetime went to AoH instead (Advent of Homelab aka me just working on a new homelab setup lol) 
+
 ## How to Navigate
 
 1. 🚀 **Clone the Repository**: Clone this repository to your local machine.
